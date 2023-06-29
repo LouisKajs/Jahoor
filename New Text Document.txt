@@ -178,8 +178,7 @@ WhitelistKeys = {
   key96 = "kHIuketLGosafiBViGjagfhRFGJ", --- 
   key97 = "lBOonmtp$pdkFolvSPkenvSAKlh", --- 
   key98 = "lGoAo$o65p#lbslPpPioekcjae", --- 
-  key99 = "KvdJkfsapR%#4MKVldpgiemdle", --- 
-  key100 = "sadocto",
+  key99 = "KvdJkfsapR%#4MKVldpgiemdle", ---  
 }
 
 
